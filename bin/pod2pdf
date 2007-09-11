@@ -203,6 +203,10 @@ C<--nofooter> to disable.
 Sets an optional footer text string that will be included in the bottom left corner
 of each page.
 
+=item C<--version>
+
+Prints version number and exits.
+
 =back
 
 =head2 Configuration files
