@@ -25,7 +25,7 @@ use constant FALSE => 0;
 
 BEGIN {
   our @ISA     = qw/Pod::Parser/;
-  our $VERSION = '0.41';
+  our $VERSION = '0.42';
 }
 
 

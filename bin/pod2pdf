@@ -211,7 +211,7 @@ Prints version number and exits.
 
 =head2 Configuration files
 
-To Sets of command-line options may be saved into configuration files. 
+Sets of command-line options may be saved into configuration files. 
 
 A configuration file contains options in the same format as used by pod2pdf on the command-line,
 with one option given on each line of the file, e.g.
